@@ -1,0 +1,19 @@
+{
+  "wifi": {
+    "ssid": "Access Public RT 01",
+    "password": "No Password"
+  },
+  "network": {
+    "status": "online",
+    "type": "Public WiFi",
+    "speed": "Tergantung jarak & kondisi perangkat"
+  },
+  "announcement": "Selamat datang di Warcot Wifi Public! Nikmati koneksi internet gratis.",
+  "rules": [
+    "Dilarang mengakses konten ilegal",
+    "Dilarang melakukan aktivitas yang melanggar hukum",
+    "Gunakan dengan bijak dan jangan berlebihan",
+    "Hormati pengguna lain"
+  ],
+  "last_updated": "2026-06-03"
+}
