@@ -6,7 +6,7 @@
   "network": {
     "status": "online",
     "type": "Public WiFi",
-    "speed": "Tergantung jarak & kondisi perangkat"
+    "speed": "Tergantung jarak & kondisi perangkat 30 Mbps"
   },
   "announcement": "Selamat datang di Warcot Wifi Public! Nikmati koneksi internet gratis.",
   "rules": [
